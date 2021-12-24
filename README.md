@@ -1,5 +1,5 @@
 # **Trello Project**
-![](https://img.shields.io/badge/license-THU__AI-blue) ![](https://img.shields.io/badge/JAVA-1.8-red) ![](https://img.shields.io/badge/SpringBoot-2.1.4.RELEASE-green)
+![](https://img.shields.io/badge/license-yilin-blue) ![](https://img.shields.io/badge/JAVA-1.8-red) ![](https://img.shields.io/badge/SpringBoot-2.1.4.RELEASE-green)
 
 ## How to set up the properties
 Step 1. get your board id and copy the id to the trello.properties in `trello.board`
